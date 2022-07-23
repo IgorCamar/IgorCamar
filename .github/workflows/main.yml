@@ -18,7 +18,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ IgorCamar }}
+          github_user_name: IgorCamar
           outputs: dist/snake.svg
 
 
