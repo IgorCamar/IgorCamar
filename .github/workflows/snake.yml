@@ -1,23 +1,38 @@
-name: Snake CI
+name: Generate Snake
 
 on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
-      - main  # Adjust this to match your repository's main branch
+      - main
 
 jobs:
-  build:
-    name: Build and Test
-    runs-on: ubuntu-latest  # Choose the appropriate runner for your needs
-
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
-          python-version: 3.x  # Specify the desired Python version
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Additional steps for your build and test process
-      # You can use any Snake CI actions or run custom commands here
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
