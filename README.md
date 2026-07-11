@@ -1,43 +1,74 @@
-<h2 align="left">Hi 👋! My name is Igor and I'm a Full Stack Dev. from Brazil</h2>
+# Hi there! I'm Igor 👋
 
-###
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Building+Web+%26+Desktop+Apps;C%23+%2F+.NET+Enthusiast;Coffee+Powered+Code+Engine+%E2%98%95" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+
+I am a passionate **Full Stack Developer** from Brazil 🇧🇷 specializing in the **C# / .NET ecosystem**. I love building everything from robust, high-performance desktop applications to modern, scalable web solutions. 
+
+* 💻 **What I do:** Turn complex business logic into clean, structured, and compiler-approved code.
+* ⚡ **Fun Fact:** My favorite error is no error, but a close second is a compiler warning that actually makes sense.
+* ☕ **Fuel:** Powered by coffee, synthwave beats, and the satisfaction of a successful build.
+
+<img align="right" height="150" src="https://media.giphy.com/media/vRK8grnEBotRINOPAJ/giphy-downsized-large.gif" alt="Coding GIF" />
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+#### **The Core (.NET Ecosystem)**
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="EF Core" />
+</p>
+
+#### **Frontend & Design**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+#### **Databases & Backing Systems**
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+---
+
+### 📊 Contribution Game 🐍
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&username=IgorCamar" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&username=IgorCamar" height="130" alt="languages graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorCamar/IgorCamar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorCamar/IgorCamar/output/github-snake.svg" />
+    <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/IgorCamar/IgorCamar/output/github-snake.svg" />
+  </picture>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.giphy.com/media/vRK8grnEBotRINOPAJ/giphy-downsized-large.gif"  />
+### 🤝 Let's Connect!
 
-###
+If you want to talk about .NET, software architecture, retro games, or just send a meme:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="42" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="#Mish8218" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+<p align="left">
   <a href="https://www.linkedin.com/in/igor-c%C3%A2mara-0b5814206/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-</div>
-
-###
+  <a href="https://discord.com/users/Mish8218" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  </a>
+</p>
 
 <br clear="both">
-
-
-
-###
